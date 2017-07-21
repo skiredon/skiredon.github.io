@@ -1,65 +1,39 @@
+@font-face {
+            font-family: "OpenSansRegular";
+            src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+            src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+            url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+            url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+            font-style: normal;
+            font-weight: normal;
+    }
 
-@font-face {
-    font-family: 'bebas_neuebold';
-    src: url('BebasNeueBold/bebasneue_bold.eot');
-    src: url('BebasNeueBold/bebasneue_bold.eot?#iefix') format('embedded-opentype'),
-         url('BebasNeueBold/bebasneue_bold.woff2') format('woff2'),
-         url('BebasNeueBold/bebasneue_bold.woff') format('woff'),
-         url('BebasNeueBold/bebasneue_bold.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    @font-face {
+            font-family: "OpenSansLight";
+            src: url("../fonts/OpenSansLight/OpenSansLight.eot");
+            src: url("../fonts/OpenSansLight/OpenSansLight.eot?#iefix")format("embedded-opentype"),
+            url("../fonts/OpenSansLight/OpenSansLight.woff") format("woff"),
+            url("../fonts/OpenSansLight/OpenSansLight.ttf") format("truetype");
+            font-style: normal;
+            font-weight: normal;
+    }
 
-}
+    @font-face {
+            font-family: "OpenSansItalic";
+            src: url("../fonts/OpenSansItalic/OpenSansItalic.eot");
+            src: url("../fonts/OpenSansItalic/OpenSansItalic.eot?#iefix")format("embedded-opentype"),
+            url("../fonts/OpenSansItalic/OpenSansItalic.woff") format("woff"),
+            url("../fonts/OpenSansItalic/OpenSansItalic.ttf") format("truetype");
+            font-style: normal;
+            font-weight: normal;
+    }
 
-@font-face {
-    font-family: 'bebas_neueregular';
-    src: url('BebasNeueRegular/bebasneue_regular.eot');
-    src: url('BebasNeueRegular/bebasneue_regular.eot?#iefix') format('embedded-opentype'),
-         url('BebasNeueRegular/bebasneue_regular.woff2') format('woff2'),
-         url('BebasNeueRegular/bebasneue_regular.woff') format('woff'),
-         url('BebasNeueRegular/bebasneue_regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-/* font-family: "RobotoRegular"; */
-@font-face {
-    font-family: "RobotoRegular";
-    src: url("RobotoRegular/RobotoRegular.eot");
-    src: url("RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
-    url("RobotoRegular/RobotoRegular.woff") format("woff"),
-    url("RobotoRegular/RobotoRegular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-/* font-family: "RobotoLight"; */
-@font-face {
-    font-family: "RobotoLight";
-    src: url("RobotoLight/RobotoLight.eot");
-    src: url("RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
-    url("RobotoLight/RobotoLight.woff") format("woff"),
-    url("RobotoLight/RobotoLight.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-/* font-family: "RobotoMedium"; */
-@font-face {
-    font-family: "RobotoMedium";
-    src: url("RobotoMedium/RobotoMedium.eot");
-    src: url("RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
-    url("RobotoMedium/RobotoMedium.woff") format("woff"),
-    url("RobotoMedium/RobotoMedium.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-/* font-family: "RobotoBold"; */
-@font-face {
-    font-family: "RobotoBold";
-    src: url("RobotoBold/RobotoBold.eot");
-    src: url("RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
-    url("RobotoBold/RobotoBold.woff") format("woff"),
-    url("RobotoBold/RobotoBold.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
+    @font-face {
+            font-family: "OpenSansBold";
+            src: url("../fonts/OpenSansBold/OpenSansBold.eot");
+            src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+            url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"),
+            url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+            font-style: normal;
+            font-weight: normal;
+        }
