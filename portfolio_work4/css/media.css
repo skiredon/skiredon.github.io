@@ -1,0 +1,27 @@
+@media screen and (max-width: 980px) {
+    .header__logo {
+        margin-right: 30px;
+    }
+    .header-nav__list li {
+        margin-right: 15px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+
+}
+
+
+@media screen and (max-width: 450px) {
+    .header__top {
+        padding: 10px 0;
+    }
+    .header__contacts,
+    .header__social {
+        float: none;
+        text-align: center;
+    }
+    .header__contacts {
+        margin-bottom: 15px;
+    }
+}

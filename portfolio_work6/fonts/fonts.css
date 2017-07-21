@@ -1,0 +1,35 @@
+/* Код для подключения шрифта в /css/stylename.css */
+/* font-family: "SourceSansProRegular"; */
+@font-face {
+    font-family: "SourceSansProRegular";
+    src: url("../fonts/SourceSansProRegular/SourceSansProRegular.eot");
+    src: url("../fonts/SourceSansProRegular/SourceSansProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SourceSansProRegular/SourceSansProRegular.woff") format("woff"),
+    url("../fonts/SourceSansProRegular/SourceSansProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "SourceSansProBold"; */
+@font-face {
+    font-family: "SourceSansProBold";
+    src: url("../fonts/SourceSansProBold/SourceSansProBold.eot");
+    src: url("../fonts/SourceSansProBold/SourceSansProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SourceSansProBold/SourceSansProBold.woff") format("woff"),
+    url("../fonts/SourceSansProBold/SourceSansProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "SourceSansProBlack";
+    src: url("../fonts/SourceSansProBold/SourceSansProBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SourceSansProBlack/SourceSansProBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "SourceSansProSemibold";
+    src: url("../fonts/SourceSansProSemibold/SourceSansProSemibold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SourceSansProSemibold/SourceSansProSemibold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

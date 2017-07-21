@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "MuseoRegular";
+    src: url("Museo 300.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "MuseoBold";
+    src: url("Museo 700.otf") format("opentype");
+    font-style: normal;
+    font-weight: bold;
+}
