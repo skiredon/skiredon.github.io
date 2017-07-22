@@ -849,9 +849,6 @@ nav.header_nav {
   min-height: 700px;
   padding-bottom: 140px;
 }
-.contact_block {
-  width: 35%;
-}
 .contact_block h1 {
   display: block;
   margin-top: 40px;
@@ -859,47 +856,47 @@ nav.header_nav {
   font-size: 44px;
   font-size: 3.142857142857143rem;
 }
-.contact_block .contack_link.link-email i {
+.contact_block .contact_link.link-email i {
   color: #db4437;
 }
-.contact_block .contack_link.link-skype i {
+.contact_block .contact_link.link-skype i {
   color: #00aff0;
 }
-.contact_block .contack_link.link-twitter i {
+.contact_block .contact_link.link-twitter i {
   color: #1da1f2;
 }
-.contact_block .contack_link.link-linkedin i {
+.contact_block .contact_link.link-linkedin i {
   color: #0077b5;
 }
-.contact_block .contack_link.link-github i {
+.contact_block .contact_link.link-github i {
   color: #444;
 }
-.contact_block .contack_link.link-email:hover a {
+.contact_block .contact_link.link-email:hover a {
   color: #db4437;
   transition: 0.3s;
 }
-.contact_block .contack_link.link-skype:hover a {
+.contact_block .contact_link.link-skype:hover a {
   color: #00aff0;
   transition: 0.3s;
 }
-.contact_block .contack_link.link-twitter:hover a {
+.contact_block .contact_link.link-twitter:hover a {
   color: #1da1f2;
   transition: 0.3s;
 }
-.contact_block .contack_link.link-linkedin:hover a {
+.contact_block .contact_link.link-linkedin:hover a {
   color: #0077b5;
   transition: 0.3s;
 }
-.contact_block .contack_link.link-github:hover a {
+.contact_block .contact_link.link-github:hover a {
   color: #444;
   transition: 0.3s;
 }
-.contact_block .contack_link i {
+.contact_block .contact_link i {
   font-size: 24px;
   display: inline-block;
   margin-right: 10px;
 }
-.contact_block .contack_link a {
+.contact_block .contact_link a {
   display: inline-block;
   margin-bottom: 20px;
   font-size: 24px;
@@ -926,4 +923,18 @@ footer .copyright {
   color: #fff;
   margin-top: 15px;
   opacity: 0.8;
+}
+@media screen and (max-width: 500px) {
+  .contact_block h1 {
+    font-size: 34px;
+    font-size: 2.428571428571428rem;
+  }
+  .contact_block .contact_link i {
+    font-size: 18px;
+    font-size: 1.285714285714286rem;
+  }
+  .contact_block .contact_link a {
+    font-size: 18px;
+    font-size: 1.285714285714286rem;
+  }
 }
